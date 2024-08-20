@@ -1,9 +1,8 @@
 ### Hi there 👋
 
- - 🛠️ I'm working on getting a full-time job (check out my resume [here](https://jcleme.dev/Josh%20Clemens%20Web%20Developer%20Resume.pdf)!)
  - ⌨️ Mechanical keyboard / alternative input device enthusiast
  - 💻 Excited by Svelte, Astro and Bun
- - 🧠 Learning Rust for side projects
+ - 🧠 Learning Rust
  - 📨 Trying to get in contact? Shoot me an [email](mailto:clemensjosh@proton.me)
 
 <!--
